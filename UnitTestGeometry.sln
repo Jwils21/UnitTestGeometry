@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeometry", "UnitTestGeometry\UnitTestGeometry.csproj", "{A59266AB-28D0-485A-A7A9-3C530D40634B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGeometryLibrary", "UnitTestGeometryLibrary\UnitTestGeometryLibrary.csproj", "{852F2423-E14B-4CA3-8044-4C5962769241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A59266AB-28D0-485A-A7A9-3C530D40634B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59266AB-28D0-485A-A7A9-3C530D40634B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59266AB-28D0-485A-A7A9-3C530D40634B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852F2423-E14B-4CA3-8044-4C5962769241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852F2423-E14B-4CA3-8044-4C5962769241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852F2423-E14B-4CA3-8044-4C5962769241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852F2423-E14B-4CA3-8044-4C5962769241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
